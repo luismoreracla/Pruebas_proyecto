@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MathApp</string>
+    <string name="send_button">Send</string>
+    <string name="Caja">Caja</string>
+    <string name="zona_drop">Drop Zone</string>
+</resources>
